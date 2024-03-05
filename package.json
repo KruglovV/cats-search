@@ -1,0 +1,29 @@
+{
+  "name": "cats-search",
+  "version": "1.0.0",
+  "description": "This app is need for searching cats =))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KruglovV/cats-search.git"
+  },
+  "keywords": [
+    "cats-searching"
+  ],
+  "author": "KruglovV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KruglovV/cats-search/issues"
+  },
+  "homepage": "https://github.com/KruglovV/cats-search#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dogs-search": "^1.0.0",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  },
+  "devDependencies": {}
+}
